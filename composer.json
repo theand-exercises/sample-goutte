@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fabpot/goutte": "dev-master",
+        "d11wtq/boris": "dev-master",
+	"php-console/php-console": "dev-master"
+    }
+}
