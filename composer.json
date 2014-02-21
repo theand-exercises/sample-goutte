@@ -2,6 +2,8 @@
     "require": {
         "fabpot/goutte": "dev-master",
         "d11wtq/boris": "dev-master",
-	"php-console/php-console": "dev-master"
+	    "php-console/php-console": "dev-master",
+        "monolog/monolog": "dev-master",
+        "nesbot/Carbon": "dev-master"
     }
 }
